@@ -2,6 +2,7 @@
 Gaussian Blur filter for gray U8 raw
 
 cmake .
+
 make
 
 ./blur c0.gray 512 512
